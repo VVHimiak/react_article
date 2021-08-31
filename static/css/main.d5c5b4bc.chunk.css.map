@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,oBAAqB,CACtB,iBAIG,WAAY,CACb,sBAGC,UAAW,CACZ,eAGC,UAAW","file":"main.d5c5b4bc.chunk.css","sourcesContent":["body {\n  background-color: red;\n}\n\n.article {\n  &__header {\n    color: green;\n  }\n\n  &__description {\n    color: blue;\n  }\n\n  &__date {\n    color: pink;\n  }\n}\n"]}
